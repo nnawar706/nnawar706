@@ -1,6 +1,6 @@
 - 👋 Hi, Myself Nafisa Nawer
-- 👀 I’m interested in Programming
-- 🌱 I’m currently studying Computer Science & Engineering at BRAC University
+- 👀 Programming Enthusiast
+- 🌱 I’m currently working as a junior Laravel Developer
 - 📫 How to reach me:
      -https://www.facebook.com/zarin.nafisanawar
      -https://www.instagram.com/_code.arc_/
