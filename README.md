@@ -1,6 +1,6 @@
 - 👋 Hi, Myself Nafisa Nawer
 - 👀 Programming Enthusiast
-- 🌱 I’m currently working as a junior Laravel Developer
+- 🌱 I’m currently working as a Junior Software Engineer
 - 📫 How to reach me:
      -https://www.facebook.com/zarin.nafisanawar
      -https://www.instagram.com/_code.arc_/
