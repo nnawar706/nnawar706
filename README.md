@@ -21,17 +21,20 @@
 
 </div>
 
+---
 
+### :woman_technologist: About Me :
+I am a Software Engineer from Bangladesh.
 
+- :telescope: I’m working as a Junior Software Engineer and contributing in backend development of several web applications.
 
-- 👋 Hi, Myself Nafisa Nawer
-- 👀 Programming Enthusiast
-- 🌱 I’m currently working as a Junior Software Engineer
-- 📫 Reach Me Out:
-     -https://www.facebook.com/zarin.nafisanawar
-     -https://www.instagram.com/_code.arc_/
-     -https://www.facebook.com/nnawar706/
-  <br /> <br />
+- :seedling: Exploring Technical Content Writing.
+
+- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+
+---
+
+### :hammer_and_wrench: Languages and Tools :
 
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -45,6 +48,16 @@
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
   ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
   ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
+
+---
+
+### :fire: My Stats :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nnawar706&theme=highcontrast&hide_border=false)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nnawar706&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+  
 
 <!---
 nnawar706/nnawar706 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
