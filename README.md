@@ -38,7 +38,7 @@ I am a Software Engineer from Bangladesh.
 const Nafisa = {
   pronouns: "she" | "her",
   code: [html, css, php, MySql, Javascript, Python, Java],
-  tools: [React, Laravel, FatFree, Spring],
+  tools: [React, Laravel, FatFree, Django, Spring],
   architecture: ["microservices", "event-driven", "design system pattern"],
   challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
 }
