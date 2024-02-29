@@ -69,7 +69,7 @@ const Nafisa = {
 
 #### :fire: GitHub Trophies :
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=nnawar706&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=nnawar706&theme=dark_lover)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
@@ -77,10 +77,10 @@ const Nafisa = {
 
 
 <a href="https://github.com/nnawar706/PAWS">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nnawar706&repo=paws&theme=highcontrast" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nnawar706&repo=recreate&theme=highcontrast" />
 </a>
 <a href="https://github.com/nnawar706/Write-Up">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nnawar706&repo=write-up&theme=highcontrast" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nnawar706&repo=codearc&theme=highcontrast" />
 </a>
 
 ---
