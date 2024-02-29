@@ -38,9 +38,9 @@ I am a Software Engineer from Bangladesh.
 const Nafisa = {
   pronouns: "she" | "her",
   code: [HTML, CSS, PHP, MySql, Javascript, Python, Java],
-  tools: [React, Laravel, FatFree, Django, Spring],
+  tools: [ReactJS, NextJS, Laravel, FatFree, Django],
   architecture: ["microservices", "event-driven", "design system pattern"],
-  challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+  challenge: "I am doing the #100DaysOfCode challenge focused on reactjs and typescript"
 }
 ```
 
@@ -61,11 +61,15 @@ const Nafisa = {
 
 ---
 
-### :fire: My Stats :
+#### :fire: My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nnawar706&theme=highcontrast&hide_border=false)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nnawar706&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+#### :fire: GitHub Trophies :
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=nnawar706&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
