@@ -23,7 +23,7 @@
 
 ---
 
-### :woman_technologist: About Me :
+#### :woman_technologist: About Me :
 I am a Software Engineer from Bangladesh.
 
 - :telescope: I’m working as a Junior Software Engineer and contributing in backend development of several web applications.
@@ -32,7 +32,7 @@ I am a Software Engineer from Bangladesh.
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+#### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
 const Nafisa = {
@@ -46,7 +46,7 @@ const Nafisa = {
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+#### :hammer_and_wrench: Languages and Tools :
 
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -69,7 +69,7 @@ const Nafisa = {
 
 #### :fire: GitHub Trophies :
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=nnawar706&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=nnawar706&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
