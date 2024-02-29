@@ -69,7 +69,7 @@ const Nafisa = {
 
 #### :fire: GitHub Trophies :
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=nnawar706&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=nnawar706&theme=onedark&rank=-unknown)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
